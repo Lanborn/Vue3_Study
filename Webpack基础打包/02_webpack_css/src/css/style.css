@@ -1,0 +1,13 @@
+.title{
+    color: skyblue;
+    font-weight: 700;
+    font-size: 30px ;
+
+    user-select: none;
+}
+
+.content {
+    color: #008c8c;
+    font-weight: 700;
+    font-size: 30px ;
+}
