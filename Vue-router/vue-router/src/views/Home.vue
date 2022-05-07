@@ -6,6 +6,7 @@
 
     <router-link to="/home/message">HomeMessage</router-link>
     <router-link to="/home/shop">商品</router-link>
+    <router-link to="/home/moment">动态</router-link>
   </div>
 </template>
 
